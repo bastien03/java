@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+java_junit/.settings/
+java_junit/.classpath
+java_junit/.project
+java_junit/target/
